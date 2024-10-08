@@ -1,6 +1,6 @@
 # LITA_CLASS_PROJECTS
 ## Excel-Dashboard-Portfolio
-This repository show cases several Excel dashboard reports built using Pivot tables, Charts
+This repository showcases several Excel dashboard reports built using Pivot tables and Charts
 
 ## Dashboards included:
 1. ** Sales Report Dashboard
